@@ -6,9 +6,7 @@ Download and import Python modules without Pip.
 <hr/>
 
 ## How to use:
-
-> [!WARNING]
-> Some libraries may have a different final import. Check their usage first.
+- Some libraries may have a different final import. Check their usage first.
 
 1. Download [ri.py](/dist/RAW/ri.py) and save it to your project directory.
 2. In your `main.py` file, `import ri` and follow the steps below based on where the main module is:
